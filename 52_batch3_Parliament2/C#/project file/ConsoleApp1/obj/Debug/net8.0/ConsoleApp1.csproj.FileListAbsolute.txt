@@ -1,0 +1,42 @@
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Steven\MCA\OOP Lab\C#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Student\Desktop\50_160724\C#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Steven\MCA\OOP Lab\50_Steven_Rodrigues_Parliament_Assignment_with_OOP_consepts_added\C#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
